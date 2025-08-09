@@ -39,10 +39,9 @@ The model is deployed on a Raspberry Pi which receives live sensor data from Ard
 
 ### 🚀 Future Scope
 
+- **Upgrade to TinyML** with model conversion to `.tflite` for microcontroller-only deployment
 - **Cloud Integration** for storing flame level logs and remote monitoring
 - **Alerting System** using email/SMS on unsafe flame levels
 - **Mobile Dashboard** for live flame status monitoring
-- **Upgrade to TinyML** with model conversion to `.tflite` for microcontroller-only deployment
 
-### 🧪 Sample Output
 
